@@ -1,12 +1,7 @@
 # Anti-Virus Update Email
+## merhaba
+Bir BT Güvenlik Yöneticisi veya BT Yöneticisisiniz ve yeni
+anti-virüs yazılımı ve kullanıcıların yeni yazılımın olup olmadığını görmek için otomatik bir tarama çalıştırması gerekiyor
+yazılımın iş istasyonlarına doğru bir şekilde aktarıldığından ve güncel olduğundan emin olun.
 
-## Objective
-Credentials
-
-## Pretext
-You are an IT Security Manager or IT Administrator and you are pushing out new
-anti-virus software and need users to run an automated scan to see if the new
-software was pushed to their workstation correctly and is up-to-date.
-
-## Modify
-None
+## Değiştir
